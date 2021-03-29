@@ -1,0 +1,9 @@
+{
+  "script": "return (function getElementPositionTopDom(element) {\n    return {\n        height: element.offsetHeight,\n        width: element.offsetWidth,\n        x: element.offsetLeft,\n        y: element.offsetTop,\n    };\n}).apply(null, arguments)",
+  "args": [
+    {
+      "element-6066-11e4-a52e-4f735466cecf": "66630eaa-70e3-470e-aa6b-994eb9cb2fd6",
+      "ELEMENT": "66630eaa-70e3-470e-aa6b-994eb9cb2fd6"
+    }
+  ]
+}

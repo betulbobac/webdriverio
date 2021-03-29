@@ -1,0 +1,273 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "experitest.com page",
+    "children" : [ {
+      "name" : "should have the right title",
+      "uid" : "d5463e4f6c382d00",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950274279,
+        "stop" : 1616950286448,
+        "duration" : 12169
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the right logo at top left corner",
+      "uid" : "52ea970caabc7995",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950286464,
+        "stop" : 1616950287340,
+        "duration" : 876
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the main text",
+      "uid" : "f911da585f377f4a",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950287342,
+        "stop" : 1616950288271,
+        "duration" : 929
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the video auto plays inline",
+      "uid" : "6864d83d69860d84",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950288272,
+        "stop" : 1616950288447,
+        "duration" : 175
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the text under main video A million more",
+      "uid" : "14c72014ce1713a3",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950288447,
+        "stop" : 1616950288749,
+        "duration" : 302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the button clickable WATCH THE STORY",
+      "uid" : "49eba41fcf6ade79",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950288749,
+        "stop" : 1616950289399,
+        "duration" : 650
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the Amy video",
+      "uid" : "106f69a4acb486dc",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950289400,
+        "stop" : 1616950289707,
+        "duration" : 307
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the Amy video clickable",
+      "uid" : "bec1bfbec04c75d5",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950289707,
+        "stop" : 1616950293670,
+        "duration" : 3963
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the right title",
+      "uid" : "8b9eec33ac46f7a0",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950294491,
+        "stop" : 1616950302271,
+        "duration" : 7780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the right logo at top left corner",
+      "uid" : "d75efc2046ce6cd3",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950302274,
+        "stop" : 1616950302476,
+        "duration" : 202
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the main text",
+      "uid" : "1f43a0a23fdea837",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950302476,
+        "stop" : 1616950302653,
+        "duration" : 177
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the video auto plays inline",
+      "uid" : "a8d67e17649d72e7",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950302653,
+        "stop" : 1616950302821,
+        "duration" : 168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the text under main video A million more",
+      "uid" : "b50941eb0493259f",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950302821,
+        "stop" : 1616950303156,
+        "duration" : 335
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the button clickable WATCH THE STORY",
+      "uid" : "a55bcf2dd0b3a05f",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950303156,
+        "stop" : 1616950303868,
+        "duration" : 712
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the Amy video",
+      "uid" : "8fe8053c94630c6d",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950303903,
+        "stop" : 1616950304541,
+        "duration" : 638
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the Amy video clickable",
+      "uid" : "30814f3f257977e7",
+      "parentUid" : "8ba99c391a32137fd0dca62ce988e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950304542,
+        "stop" : 1616950309363,
+        "duration" : 4821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    } ],
+    "uid" : "8ba99c391a32137fd0dca62ce988e464"
+  }, {
+    "name" : "Learn More About Car Safety",
+    "children" : [ {
+      "name" : "should have the correct title",
+      "uid" : "e1422f03dcb2ef5c",
+      "parentUid" : "1091d3f9ca0d917969fc99d254b3258b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950274280,
+        "stop" : 1616950286427,
+        "duration" : 12147
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the correct section: Car safety",
+      "uid" : "275e26fc8d2a7276",
+      "parentUid" : "1091d3f9ca0d917969fc99d254b3258b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950286453,
+        "stop" : 1616950287457,
+        "duration" : 1004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should have the correct title",
+      "uid" : "30f98f738dafb051",
+      "parentUid" : "1091d3f9ca0d917969fc99d254b3258b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950300575,
+        "stop" : 1616950305716,
+        "duration" : 5141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    }, {
+      "name" : "should have the correct section: Car safety",
+      "uid" : "bf66399cb4decfe6",
+      "parentUid" : "1091d3f9ca0d917969fc99d254b3258b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616950305771,
+        "stop" : 1616950306377,
+        "duration" : 606
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-87.0" ]
+    } ],
+    "uid" : "1091d3f9ca0d917969fc99d254b3258b"
+  } ]
+}

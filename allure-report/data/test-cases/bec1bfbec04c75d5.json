@@ -1,0 +1,164 @@
+{
+  "uid" : "bec1bfbec04c75d5",
+  "name" : "should have the Amy video clickable",
+  "fullName" : "experitest.com page.should have the Amy video clickable",
+  "historyId" : "a8820fd8b5da7315a5779d84648690f1",
+  "time" : {
+    "start" : 1616950289707,
+    "stop" : 1616950293670,
+    "duration" : 3963
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950289709,
+        "stop" : 1616950291427,
+        "duration" : 1718
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ac2d6a210886b44b",
+        "name" : "Request",
+        "source" : "ac2d6a210886b44b.json",
+        "type" : "application/json",
+        "size" : 151
+      }, {
+        "uid" : "adfd132ed4c6f332",
+        "name" : "Response",
+        "source" : "adfd132ed4c6f332.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/778a16f5-5d04-4fd9-8643-7d531ee70ac2/click",
+      "time" : {
+        "start" : 1616950291438,
+        "stop" : 1616950293115,
+        "duration" : 1677
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950293117,
+        "stop" : 1616950293449,
+        "duration" : 332
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e1691d28d2179870",
+        "name" : "Request",
+        "source" : "e1691d28d2179870.json",
+        "type" : "application/json",
+        "size" : 165
+      }, {
+        "uid" : "7cdb6caaed36ff79",
+        "name" : "Response",
+        "source" : "7cdb6caaed36ff79.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1616950293531,
+        "stop" : 1616950293668,
+        "duration" : 137
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5a2ddf2227191f83",
+        "name" : "Request",
+        "source" : "5a2ddf2227191f83.json",
+        "type" : "application/json",
+        "size" : 165
+      }, {
+        "uid" : "b5bd19fcb4c7743",
+        "name" : "Response",
+        "source" : "b5bd19fcb4c7743.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the Amy video clickable"
+  }, {
+    "name" : "package",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bec1bfbec04c75d5.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

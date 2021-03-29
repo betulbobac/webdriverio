@@ -1,0 +1,152 @@
+{
+  "uid" : "e1422f03dcb2ef5c",
+  "name" : "should have the correct title",
+  "fullName" : "Learn More About Car Safety.should have the correct title",
+  "historyId" : "4f5b1f94393c6350849d63dc8a44ff16",
+  "time" : {
+    "start" : 1616950274280,
+    "stop" : 1616950286427,
+    "duration" : 12147
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1616950274285,
+        "stop" : 1616950283141,
+        "duration" : 8856
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "156230dc15354337",
+        "name" : "Request",
+        "source" : "156230dc15354337.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950283164,
+        "stop" : 1616950283359,
+        "duration" : 195
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5133b183fff70862",
+        "name" : "Request",
+        "source" : "5133b183fff70862.json",
+        "type" : "application/json",
+        "size" : 215
+      }, {
+        "uid" : "52acfe3602ce1392",
+        "name" : "Response",
+        "source" : "52acfe3602ce1392.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/6127b14c-8a95-46c3-b0a5-aed0f6fab680/click",
+      "time" : {
+        "start" : 1616950283482,
+        "stop" : 1616950284969,
+        "duration" : 1487
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1616950285085,
+        "stop" : 1616950286302,
+        "duration" : 1217
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "15f0bf65eaf6351d",
+        "name" : "Response",
+        "source" : "15f0bf65eaf6351d.json",
+        "type" : "application/json",
+        "size" : 25
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Learn More About Car Safety"
+  }, {
+    "name" : "testClass",
+    "value" : "Learn More About Car Safety"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the correct title"
+  }, {
+    "name" : "package",
+    "value" : "Learn More About Car Safety"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1422f03dcb2ef5c.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

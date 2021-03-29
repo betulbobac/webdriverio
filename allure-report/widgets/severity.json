@@ -1,0 +1,201 @@
+[ {
+  "uid" : "e1422f03dcb2ef5c",
+  "name" : "should have the correct title",
+  "time" : {
+    "start" : 1616950274280,
+    "stop" : 1616950286427,
+    "duration" : 12147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a55bcf2dd0b3a05f",
+  "name" : "should have the button clickable WATCH THE STORY",
+  "time" : {
+    "start" : 1616950303156,
+    "stop" : 1616950303868,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b9eec33ac46f7a0",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1616950294491,
+    "stop" : 1616950302271,
+    "duration" : 7780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f43a0a23fdea837",
+  "name" : "should have the main text",
+  "time" : {
+    "start" : 1616950302476,
+    "stop" : 1616950302653,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d75efc2046ce6cd3",
+  "name" : "should have the right logo at top left corner",
+  "time" : {
+    "start" : 1616950302274,
+    "stop" : 1616950302476,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30814f3f257977e7",
+  "name" : "should have the Amy video clickable",
+  "time" : {
+    "start" : 1616950304542,
+    "stop" : 1616950309363,
+    "duration" : 4821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b50941eb0493259f",
+  "name" : "should have the text under main video A million more",
+  "time" : {
+    "start" : 1616950302821,
+    "stop" : 1616950303156,
+    "duration" : 335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8d67e17649d72e7",
+  "name" : "should have the video auto plays inline",
+  "time" : {
+    "start" : 1616950302653,
+    "stop" : 1616950302821,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f911da585f377f4a",
+  "name" : "should have the main text",
+  "time" : {
+    "start" : 1616950287342,
+    "stop" : 1616950288271,
+    "duration" : 929
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5463e4f6c382d00",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1616950274279,
+    "stop" : 1616950286448,
+    "duration" : 12169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fe8053c94630c6d",
+  "name" : "should have the Amy video",
+  "time" : {
+    "start" : 1616950303903,
+    "stop" : 1616950304541,
+    "duration" : 638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52ea970caabc7995",
+  "name" : "should have the right logo at top left corner",
+  "time" : {
+    "start" : 1616950286464,
+    "stop" : 1616950287340,
+    "duration" : 876
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14c72014ce1713a3",
+  "name" : "should have the text under main video A million more",
+  "time" : {
+    "start" : 1616950288447,
+    "stop" : 1616950288749,
+    "duration" : 302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6864d83d69860d84",
+  "name" : "should have the video auto plays inline",
+  "time" : {
+    "start" : 1616950288272,
+    "stop" : 1616950288447,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "275e26fc8d2a7276",
+  "name" : "should have the correct section: Car safety",
+  "time" : {
+    "start" : 1616950286453,
+    "stop" : 1616950287457,
+    "duration" : 1004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "106f69a4acb486dc",
+  "name" : "should have the Amy video",
+  "time" : {
+    "start" : 1616950289400,
+    "stop" : 1616950289707,
+    "duration" : 307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bec1bfbec04c75d5",
+  "name" : "should have the Amy video clickable",
+  "time" : {
+    "start" : 1616950289707,
+    "stop" : 1616950293670,
+    "duration" : 3963
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf66399cb4decfe6",
+  "name" : "should have the correct section: Car safety",
+  "time" : {
+    "start" : 1616950305771,
+    "stop" : 1616950306377,
+    "duration" : 606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49eba41fcf6ade79",
+  "name" : "should have the button clickable WATCH THE STORY",
+  "time" : {
+    "start" : 1616950288749,
+    "stop" : 1616950289399,
+    "duration" : 650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30f98f738dafb051",
+  "name" : "should have the correct title",
+  "time" : {
+    "start" : 1616950300575,
+    "stop" : 1616950305716,
+    "duration" : 5141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

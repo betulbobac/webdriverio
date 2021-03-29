@@ -1,0 +1,122 @@
+{
+  "uid" : "8fe8053c94630c6d",
+  "name" : "should have the Amy video",
+  "fullName" : "experitest.com page.should have the Amy video",
+  "historyId" : "3bb80c63faeb94b66c25a80dd8401b95",
+  "time" : {
+    "start" : 1616950303903,
+    "stop" : 1616950304541,
+    "duration" : 638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950304055,
+        "stop" : 1616950304382,
+        "duration" : 327
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a8fda2e821268f26",
+        "name" : "Request",
+        "source" : "a8fda2e821268f26.json",
+        "type" : "application/json",
+        "size" : 151
+      }, {
+        "uid" : "350335e5789a81f0",
+        "name" : "Response",
+        "source" : "350335e5789a81f0.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1616950304482,
+        "stop" : 1616950304530,
+        "duration" : 48
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "93807970a8ec0a",
+        "name" : "Request",
+        "source" : "93807970a8ec0a.json",
+        "type" : "application/json",
+        "size" : 151
+      }, {
+        "uid" : "bf393b54c44867f5",
+        "name" : "Response",
+        "source" : "bf393b54c44867f5.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the Amy video"
+  }, {
+    "name" : "package",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-87.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fe8053c94630c6d.json",
+  "parameterValues" : [ "firefox-87.0" ]
+}

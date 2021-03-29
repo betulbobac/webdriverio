@@ -1,0 +1,122 @@
+{
+  "uid" : "52ea970caabc7995",
+  "name" : "should have the right logo at top left corner",
+  "fullName" : "experitest.com page.should have the right logo at top left corner",
+  "historyId" : "3b08b509634e4c85dac74ae8033ae71f",
+  "time" : {
+    "start" : 1616950286464,
+    "stop" : 1616950287340,
+    "duration" : 876
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950286477,
+        "stop" : 1616950286606,
+        "duration" : 129
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "72dbd055ee0a5265",
+        "name" : "Request",
+        "source" : "72dbd055ee0a5265.json",
+        "type" : "application/json",
+        "size" : 58
+      }, {
+        "uid" : "1c63d175d3cd5d8f",
+        "name" : "Response",
+        "source" : "1c63d175d3cd5d8f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1616950286629,
+        "stop" : 1616950287313,
+        "duration" : 684
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f239e7453633af11",
+        "name" : "Request",
+        "source" : "f239e7453633af11.json",
+        "type" : "application/json",
+        "size" : 58
+      }, {
+        "uid" : "e336e85a411b4a8d",
+        "name" : "Response",
+        "source" : "e336e85a411b4a8d.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the right logo at top left corner"
+  }, {
+    "name" : "package",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52ea970caabc7995.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

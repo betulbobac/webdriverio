@@ -1,0 +1,122 @@
+{
+  "uid" : "6864d83d69860d84",
+  "name" : "should have the video auto plays inline",
+  "fullName" : "experitest.com page.should have the video auto plays inline",
+  "historyId" : "231ca86dc19fbe23d245073250e4f4de",
+  "time" : {
+    "start" : 1616950288272,
+    "stop" : 1616950288447,
+    "duration" : 175
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950288275,
+        "stop" : 1616950288363,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d607ab41728dc823",
+        "name" : "Request",
+        "source" : "d607ab41728dc823.json",
+        "type" : "application/json",
+        "size" : 91
+      }, {
+        "uid" : "49942c7a5a02f396",
+        "name" : "Response",
+        "source" : "49942c7a5a02f396.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1616950288380,
+        "stop" : 1616950288445,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9105027a0ddf84e6",
+        "name" : "Request",
+        "source" : "9105027a0ddf84e6.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "3ccf19b27a84fb3",
+        "name" : "Response",
+        "source" : "3ccf19b27a84fb3.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the video auto plays inline"
+  }, {
+    "name" : "package",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6864d83d69860d84.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

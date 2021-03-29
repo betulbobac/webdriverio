@@ -1,0 +1,116 @@
+{
+  "uid" : "14c72014ce1713a3",
+  "name" : "should have the text under main video A million more",
+  "fullName" : "experitest.com page.should have the text under main video A million more",
+  "historyId" : "ad20d376d68566aff92ffa3c80fb896c",
+  "time" : {
+    "start" : 1616950288447,
+    "stop" : 1616950288749,
+    "duration" : 302
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950288451,
+        "stop" : 1616950288569,
+        "duration" : 118
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c9bd612b2b37547b",
+        "name" : "Request",
+        "source" : "c9bd612b2b37547b.json",
+        "type" : "application/json",
+        "size" : 102
+      }, {
+        "uid" : "15ace50fda756ac7",
+        "name" : "Response",
+        "source" : "15ace50fda756ac7.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/f1eca986-e060-40a0-96bb-c492556364af/text",
+      "time" : {
+        "start" : 1616950288588,
+        "stop" : 1616950288746,
+        "duration" : 158
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "aed6c781ee17fd01",
+        "name" : "Response",
+        "source" : "aed6c781ee17fd01.json",
+        "type" : "application/json",
+        "size" : 88
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the text under main video A million more"
+  }, {
+    "name" : "package",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14c72014ce1713a3.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

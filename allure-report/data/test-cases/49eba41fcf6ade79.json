@@ -1,0 +1,110 @@
+{
+  "uid" : "49eba41fcf6ade79",
+  "name" : "should have the button clickable WATCH THE STORY",
+  "fullName" : "experitest.com page.should have the button clickable WATCH THE STORY",
+  "historyId" : "4cae50bc17b7c0d20636df52322b6684",
+  "time" : {
+    "start" : 1616950288749,
+    "stop" : 1616950289399,
+    "duration" : 650
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1616950288750,
+        "stop" : 1616950288838,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6b34d3ad932caad2",
+        "name" : "Request",
+        "source" : "6b34d3ad932caad2.json",
+        "type" : "application/json",
+        "size" : 91
+      }, {
+        "uid" : "a6439fb0b1e546fe",
+        "name" : "Response",
+        "source" : "a6439fb0b1e546fe.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/37441ef1-3cf7-4476-8a15-3f4ac62a862c/click",
+      "time" : {
+        "start" : 1616950288859,
+        "stop" : 1616950289397,
+        "duration" : 538
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the button clickable WATCH THE STORY"
+  }, {
+    "name" : "package",
+    "value" : "experitest.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49eba41fcf6ade79.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}
